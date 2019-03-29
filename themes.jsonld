@@ -1,0 +1,76 @@
+[
+    {
+		"@context": "http://schema.org/"
+    },
+    {
+		"@type": ["DefinedTermSet"],
+		"@id": "https://soe.environment.gov.au/theme",
+		"name": "Theme"
+    },
+    {
+		"@type": "DefinedTerm",
+		"@id": "https://soe.environment.gov.au/theme/atmosphere",
+		"name": "Atmosphere",
+		"description": "Atmosphere considers greenhouse gas emissions and climate change and its implications for the Australian environment, as well as ambient air quality.",
+		"inDefinedTermSet": "https://soe.environment.gov.au/theme"
+	},
+	{
+		"@type": "DefinedTerm",
+		"@id": "https://soe.environment.gov.au/theme/atmosphere",
+		"name": "Built environment",
+		"description": "Built environment discusses the state of Australia's cities and towns, and considers the impacts of population and economic growth, and climate change on our urban environments, and issues of strategic management across jurisdictions in a time of change.",
+		"inDefinedTermSet": "https://soe.environment.gov.au/theme/built-environment"
+	},
+	{
+		"@type": "DefinedTerm",
+		"@id": "https://soe.environment.gov.au/theme/heritage",
+		"name": "Heritage",
+		"description": "Heritage deals with the extent and condition of Australia's rich Indigenous, natural and cultural heritage, the threats each faces from natural and human processes, and the challenges of management.",
+		"inDefinedTermSet": "https://soe.environment.gov.au/theme"
+	},
+	{
+		"@type": "DefinedTerm",
+		"@id": "https://soe.environment.gov.au/theme/biodiversity",
+		"name": "Biodiversity",
+		"description": "Biodiversity summarises the condition of Australia's living resources and highlights the challenges of management in the context of human dependence on biodiversity for ecosystem services.",
+		"inDefinedTermSet": "https://soe.environment.gov.au/theme"
+	},
+
+	{
+		"@type": "DefinedTerm",
+		"@id": "https://soe.environment.gov.au/theme/land",
+		"name": "Land",
+		"description": "Land considers the state of our soil and vegetation resources, the pressures they face, and issues and priorities for management.",
+		"inDefinedTermSet": "https://soe.environment.gov.au/theme"
+	},
+	{
+		"@type": "DefinedTerm",
+		"@id": "https://soe.environment.gov.au/theme/inland-water",
+		"name": "Inland water",
+		"description": "Inland water looks at the evolving state of surface and groundwater resources in the world's driest inhabitable continent, in the context of the breaking of a major drought and ongoing water policy reform.",
+		"inDefinedTermSet": "https://soe.environment.gov.au/theme"
+	},
+	{
+		"@type": "DefinedTerm",
+		"@id": "https://soe.environment.gov.au/theme/coasts",
+		"name": "Coasts",
+		"description": "Coasts considers the special features of the interface between ocean and land, the challenges to coasts posed by climate change and management responses to pressures on our coastlines.",
+		"inDefinedTermSet": "https://soe.environment.gov.au/theme"
+	},
+	{
+		"@type": "DefinedTerm",
+		"@id": "https://soe.environment.gov.au/theme/marine-environment",
+		"name": "Marine environment",
+		"description": "Marine environment details the condition of the marine environment; the existing impacts of fisheries, oil and gas extraction and coastal development, and the potential impacts of climate change; and issues around marine management.",
+		"inDefinedTermSet": "https://soe.environment.gov.au/theme"
+	},
+	{
+		"@type": "DefinedTerm",
+		"@id": "https://soe.environment.gov.au/theme/antarctic-environment",
+		"name": "Antarctic environment",
+		"description": "Antarctic environment looks at the global importance and evolving state of the Antarctic environment, the ongoing changes to marine and terrestrial ecosystems resulting from human activity, and the significance of climate change in the region.",
+		"inDefinedTermSet": "https://soe.environment.gov.au/theme"
+	}
+]
+
+
