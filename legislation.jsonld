@@ -1,0 +1,474 @@
+[
+    {
+        "@context": "http://schema.org/"
+    },
+    {
+        "@type": ["DefinedTermSet"],
+        "@id": "https://environment.example.com/legislation",
+        "name": "Legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2004A02943",
+        "url": "https://www.legislation.gov.au/Series/C2004A02943",
+        "name": "Aboriginal and Torres Strait Islander Heritage Protection Act 1984",
+        "description": "Except to the extent administered by the Attorney General",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2004A02943",
+        "name": "Aboriginal and Torres Strait Islander Heritage Protection Act 1984,Except to the extent administered by the Attorney General",
+        "url": "https://www.legislation.gov.au/Series/C2004A02943",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2004A02408",
+        "name": "Antarctic Marine Living Resources Conservation Act 1981",
+        "url": "https://www.legislation.gov.au/Series/C2004A02408",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C1960A00048",
+        "name": "Antarctic Treaty Act 1960",
+        "url": "https://www.legislation.gov.au/Series/C1960A00048",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2004A02304",
+        "name": "Antarctic Treaty (Environment Protection) Act 1980",
+        "url": "https://www.legislation.gov.au/Series/C2004A02304",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C1933A00008",
+        "name": "Australian Antarctic Territory Acceptance Act 1933",
+        "url": "https://www.legislation.gov.au/Series/C1933A00008",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C1954A00042",
+        "name": "Australian Antarctic Territory Act 1954",
+        "url": "https://www.legislation.gov.au/Series/C1954A00042",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2004A01335",
+        "name": "Australian Energy Market Act 2004",
+        "url": "https://www.legislation.gov.au/Series/C2004A01335",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2004A01169",
+        "name": "Australian Heritage Council Act 2003",
+        "url": "https://www.legislation.gov.au/Series/C2004A01169",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2011A00099",
+        "name": "Australian National Registry of Emissions Units Act 2011",
+        "url": "https://www.legislation.gov.au/Series/C2011A00099",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2011A00151",
+        "name": "Australian Renewable Energy Agency Act 2011",
+        "url": "https://www.legislation.gov.au/Series/C2011A00151",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2011A00152",
+        "name": "Australian Renewable Energy Agency (Consequential Amendments and Transitional Provisions) Act 2011",
+        "url": "https://www.legislation.gov.au/Series/C2011A00152",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2010A00067",
+        "name": "Building Energy Efficiency Disclosure Act 2010",
+        "url": "https://www.legislation.gov.au/Series/C2010A00067",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2011A00101",
+        "name": "Carbon Credits (Carbon Farming Initiative) Act 2011",
+        "url": "https://www.legislation.gov.au/Series/C2011A00101",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2012A00104",
+        "name": "Clean Energy Finance Corporation Act 2012",
+        "url": "https://www.legislation.gov.au/Series/C2012A00104",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2014A00083",
+        "name": "Clean Energy Legislation (Carbon Tax Repeal) Act 2014",
+        "url": "https://www.legislation.gov.au/Series/C2014A00083",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2011A00163",
+        "name": "Clean Energy Regulator Act 2011",
+        "url": "https://www.legislation.gov.au/Series/C2011A00163",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2011A00143",
+        "name": "Climate Change Authority Act 2011",
+        "url": "https://www.legislation.gov.au/Series/C2011A00143",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2004A01827",
+        "name": "Environment Protection (Alligator Rivers Region) Act 1978",
+        "url": "https://www.legislation.gov.au/Series/C2004A01827",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2004A00485",
+        "name": "Environment Protection and Biodiversity Conservation Act 1999",
+        "url": "https://www.legislation.gov.au/Series/C2004A00485",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2004A02478",
+        "name": "Environment Protection (Sea Dumping) Act 1981",
+        "url": "https://www.legislation.gov.au/Series/C2004A02478",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2004A00744",
+        "name": "Fuel Quality Standards Act 2000",
+        "url": "",
+        "description": "https://www.legislation.gov.au/Series/C2004A00744",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2004A01395",
+        "name": "Great Barrier Reef Marine Park Acts 1975",
+        "url": "https://www.legislation.gov.au/Series/C2004A01395",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2004A04569",
+        "name": "Great Barrier Reef Marine Park (Environmental Management Charge-Excise) Act 1993",
+        "url": "https://www.legislation.gov.au/Series/C2004A04569",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2004A04570",
+        "name": "Great Barrier Reef Marine Park (Environmental Management Charge-General) Act 1993",
+        "url": "https://www.legislation.gov.au/Series/C2004A04570",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2012A00132",
+        "name": "Greenhouse and Energy Minimum Standards Act 2012",
+        "url": "https://www.legislation.gov.au/Series/C2012A00132",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2012A00133",
+        "name": "Greenhouse and Energy Minimum Standards (Registration Fees) Act 2012",
+        "url": "https://www.legislation.gov.au/Series/C2012A00133",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2004A03937",
+        "name": "Hazardous Waste (Regulation of Exports and Imports) Act 1989",
+        "url": "https://www.legislation.gov.au/Series/C2004A03937",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C1953A00007",
+        "name": "Heard Island and McDonald Islands Act 1953",
+        "url": "https://www.legislation.gov.au/Series/C1953A00007",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2004A01619",
+        "name": "Historic Shipwrecks Act 1976",
+        "url": "https://www.legislation.gov.au/Series/C2004A01619",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C1955A00006",
+        "name": "Meteorology Act 1955",
+        "url": "https://www.legislation.gov.au/Series/C1955A00006",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2004A04746",
+        "name": "Moomba-Sydney Pipeline System Sale Act 1994",
+        "url": "https://www.legislation.gov.au/Series/C2004A04746",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2004A04799",
+        "name": "National Environment Protection Council Act 1994",
+        "url": "https://www.legislation.gov.au/Series/C2004A04799",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2004A00392",
+        "name": "National Environment Protection Measures (Implementation) Act 1998",
+        "url": "https://www.legislation.gov.au/Series/C2004A00392",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2007A00175",
+        "name": "National Greenhouse and Energy Reporting Act 2007",
+        "url": "https://www.legislation.gov.au/Series/C2007A00175",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "http://www.comlaw.gov.au/comlaw/management.nsf/lookupindexpagesbyid/IP200403835?OpenDocument",
+        "name": "Natural Heritage Trust of Australia Act 1997",
+        "url": "http://www.comlaw.gov.au/comlaw/management.nsf/lookupindexpagesbyid/IP200403835?OpenDocument",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2004A04533",
+        "name": "Natural Resources Management (Financial Assistance) Act 1992",
+        "url": "https://www.legislation.gov.au/Series/C2004A04533",
+        "description": "section 25(1)",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2004A04976",
+        "name": "Ozone Protection and Synthetic Greenhouse Gas (Import Levy) Act 1995",
+        "url": "https://www.legislation.gov.au/Series/C2004A04976",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2014A00090",
+        "name": "Ozone Protection and Synthetic Greenhouse Gas (Import Levy) (Transitional Provisions) Act 1995",
+        "url": "https://www.legislation.gov.au/Series/C2014A00090",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2004A03755",
+        "name": "Ozone Protection and Synthetic Greenhouse Gas Management Act 1989",
+        "url": "https://www.legislation.gov.au/Series/C2004A03755",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2004A04975",
+        "name": "Ozone Protection and Synthetic Greenhouse Gas (Manufacture Levy) Act 1995",
+        "url": "https://www.legislation.gov.au/Series/C2004A04975",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Details/C2017C00348",
+        "name": "Petroleum and Other Fuels Reporting Act 2017",
+        "url": "https://www.legislation.gov.au/Details/C2017C00348",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Details/C2017A00104",
+        "name": "Product Emissions Standards Act 2017",
+        "url": "https://www.legislation.gov.au/Details/C2017A00104",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2011A00076",
+        "name": "Product Stewardship Act 2011",
+        "url": "https://www.legislation.gov.au/Series/C2011A00076",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2004A00694",
+        "name": "Product Stewardship (Oil) Act 2000",
+        "url": "https://www.legislation.gov.au/Series/C2004A00694",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C1923A00014",
+        "name": "Removal of Prisoners (Territories) Act 1923",
+        "url": "https://www.legislation.gov.au/Series/C1923A00014",
+        "description": "Insofar as it relates to the Territory of Heard Island and McDonald Islands and the Australian Antarctic Territory",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2004A00767",
+        "name": "Renewable Energy (Electricity) Act 2000",
+        "url": "https://www.legislation.gov.au/Series/C2004A00767",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2004A00722",
+        "name": "Renewable Energy (Electricity) (Large-scale Generation Shortfall Charge) Act 2000",
+        "url": "https://www.legislation.gov.au/Series/C2004A00722",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2010A00071",
+        "name": "Renewable Energy (Electricity) (Small-scale Technology Shortfall Charge) Act 2010",
+        "url": "https://www.legislation.gov.au/Series/C2010A00071",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2004A03511",
+        "name": "Sea Installations Act 1987",
+        "url": "https://www.legislation.gov.au/Series/C2004A03511",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2004A05270",
+        "name": "Snowy Hydro Corporatisation Act 1997",
+        "url": "https://www.legislation.gov.au/Series/C2004A05270",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2004A03814",
+        "name": "Snowy Mountains Engineering Corporation (Conversion into Public Company) Act 1989",
+        "url": "https://www.legislation.gov.au/Series/C2004A03814",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2004A04609",
+        "name": "Snowy Mountains Engineering Corporation Limited Sale Act 1993",
+        "url": "https://www.legislation.gov.au/Series/C2004A04609",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2004A00779",
+        "name": "Sydney Harbour Federation Trust Act 2001",
+        "url": "https://www.legislation.gov.au/Series/C2004A00779",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2014A00085",
+        "name": "True-up Shortfall levy (Excise) (Carbon Tax Repeal) Act 2014",
+        "url": "https://www.legislation.gov.au/Series/C2014A00085",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2014A00084",
+        "name": "True-up Shortfall levy (General) (Carbon Tax Repeal) Act 2014",
+        "url": "https://www.legislation.gov.au/Series/C2014A00084",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2007A00137",
+        "name": "Water Act 2007",
+        "url": "https://www.legislation.gov.au/Series/C2007A00137",
+        "description": "Part 6",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    },
+    {
+        "@type": "DefinedTerm",
+        "@id": "https://www.legislation.gov.au/Series/C2004A04708",
+        "name": "Wet Tropics of Queensland World Heritage Area Conservation Act 1994",
+        "url": "https://www.legislation.gov.au/Series/C2004A04708",
+        "description": "",
+        "inDefinedTermSet": "https://environment.example.com/legislation"
+    }
+]
