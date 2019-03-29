@@ -18,9 +18,9 @@
     {
         "@type": "DefinedTerm",
         "@id": "https://www.legislation.gov.au/Series/C2004A02943",
-        "name": "Aboriginal and Torres Strait Islander Heritage Protection Act 1984,Except to the extent administered by the Attorney General",
+        "name": "Aboriginal and Torres Strait Islander Heritage Protection Act 1984",
         "url": "https://www.legislation.gov.au/Series/C2004A02943",
-        "description": "",
+        "description": "Except to the extent administered by the Attorney General",
         "inDefinedTermSet": "https://environment.example.com/legislation"
     },
     {
